@@ -1,0 +1,22 @@
+.item {
+    background-color: brown;
+    display: flex;
+    flex: 1;
+    height: 47px;
+    margin: 10px 10px;
+}
+.containerCol {
+    display: flex;
+    flex-direction: column;
+}
+.itemMaior {
+background-color: blue;
+display: flex;
+flex: 2;
+margin: 10px 10px;
+}
+
+.container {
+    display: flex;
+    
+}
